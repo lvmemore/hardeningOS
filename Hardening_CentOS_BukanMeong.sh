@@ -1,4 +1,5 @@
 #!/bin/bash
+
 : '
 #SYNOPSIS
     Quick win script for remediation of CentOS Linux 7 baseline misconfigurations.
